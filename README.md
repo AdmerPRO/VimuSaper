@@ -1,2 +1,2 @@
 # VimuSaper
-Saper
+Have FUN
